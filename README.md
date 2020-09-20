@@ -18,6 +18,10 @@ Svelte Directory :
 - __tests__ (for jest testing)
 ```
 
+# Download 
+
+<a href="https://github.com/gaibz/Codeigniter4-and-Svelte3-Starter-Template/releases">Download ZIP in Release Page</a>
+
 # Install Dependency
 
 Make sure you have NodeJS and PHP + Composer installed in your system.
